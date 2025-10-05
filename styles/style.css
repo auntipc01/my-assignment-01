@@ -1,0 +1,46 @@
+/* header box style */
+.header-box {
+    display: flex;
+    justify-content: space-between;
+}
+.header-title {
+    margin-left: 120px;
+}
+.header-btn {
+    margin-right: 120px;
+    padding: 0 20px;
+    height: 32px;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+.bangladesh-container {
+    display: flex;
+    background-color: rgba(255, 0, 0, 0.05);
+    justify-content: space-around;
+    width: 1320px;
+    height: 620px;
+    margin: 120px 120px;
+}
+.bangladesh-box-title {
+    color: lightcoral;
+    font-size: 26px;
+    margin-top: 120px;
+}
+.bangladesh-box-description {
+    color: black;
+    font-size: 64px;
+    width: 660px;
+    margin-top: 20px;
+}
+.bangladesh-box-btn {
+     background-color: red;
+     padding: 15px 20px;
+     border-radius: 10px;
+
+}
+.btn-color {
+    color: white;
+}
+.bangladesh-box-image {
+    margin-top: 100px;
+}

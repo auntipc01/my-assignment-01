@@ -2,12 +2,14 @@
 .header-box {
     display: flex;
     justify-content: space-between;
+    width: 1320px;
+    margin: 0px 120px;
 }
 .header-title {
-    margin-left: 120px;
+    margin-left: 0px;
 }
 .header-btn {
-    margin-right: 120px;
+    margin-right: 0px;
     padding: 0 20px;
     height: 32px;
     border-radius: 5px;

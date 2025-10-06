@@ -44,3 +44,85 @@
 .bangladesh-box-image {
     margin-top: 100px;
 }
+/* pillar box style */
+.pillars-container {
+    display: flex;
+    gap: 15px;
+    margin-left: 120px;
+    width: 1320px;
+}
+.pillars-box {
+    padding: 10px;
+    background-color: cornsilk;
+    background-repeat: no-repeat;
+    
+}
+.pillar-title {
+    margin-left: 120px;
+}
+/* future-vision-container style */
+.future-container {
+    width: 1320px;
+}
+
+.future-vision-title {
+    margin-left: 120px;
+    margin-top: 80px;
+}
+.future-vision-discription {
+    margin-left: 120px;
+}
+
+.future-vision-container {
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+    margin-left: 120px;
+    width: 1320px;
+    height: 280px;
+    margin-top: 48px;
+}
+.future-container-box {
+    margin-left: 35px;
+    margin-top: 20px;
+}
+.future-container-box-blue {
+    width: 471px;
+    background-color: rgb(90, 162, 234);
+    border-radius: 10px;
+}
+.future-container-box-green {
+    width: 471px;
+    background-color: rgb(3, 137, 3);
+    border-radius: 10px;
+}
+.future-container-box-yellow {
+    width: 471px;
+    background-color: rgb(89, 191, 89);
+    border-radius: 10px;
+}
+.future-container-box-button-blue {
+    background-color: blueviolet;
+    margin-left: 20px;
+    padding: 03px 20px;
+    border-radius: 5px;
+    margin-top: 5px;
+}
+.future-container-box-button-green {
+    background-color: rgb(149, 57, 3);
+    margin-left: 20px;
+    padding: 03px 20px;
+    border-radius: 5px;
+    margin-top: 5px;
+}
+.future-container-box-button-yellow {
+    background-color: rgb(34, 123, 2);
+    margin-left: 20px;
+    padding: 03px 20px;
+    border-radius: 5px;
+    margin-top: 5px;
+}
+a {
+    color: white;
+    text-decoration: none;
+}

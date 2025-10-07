@@ -1,5 +1,5 @@
 
-body {
+header {
     margin: 0 0 0 120px;
 }
 
@@ -272,4 +272,71 @@ image {
     padding: 8px 12px;
     border-radius: 5px;
     text-align: center;
+}
+.other-amount-btn {
+    width: 1320px;
+}
+/* newsletter style */
+.newsletter-btn {
+    background-color: rgb(149, 57, 3);
+    padding: 8px 12px;
+    border-radius: 5px;
+    text-align: center;
+
+}
+.newsletter {
+    text-align: center;
+    width: 1320px;
+    height: 360px;
+    background-color: rgb(252, 147, 147);
+    border-radius: 10px; 
+    margin-top: 80px;
+}
+.newsletter-container {
+    padding: 50px;
+}
+.newsletter-container-description {
+    width: 580px;
+    text-align: center;
+    margin: 0 auto;
+    
+}
+.newsletter-box-input {
+    width: 580px;
+    height: 30px;
+    border-radius: 5px;
+    text-align: center;
+}
+.newsletter-box {
+    text-align: center;
+    justify-content: space-around;
+    justify-items: center;
+    width: 1320px;
+    gap: 0px;
+    border-radius: 10px;
+
+}
+.spam {
+    margin: 0 auto;
+}
+/* footer style */
+.footer-container {
+    width: 1560px;
+    height: 200px;
+    background-color: #f9eaea;
+    
+    
+}
+.footer-title {
+    text-align: center;
+    margin-top: 40px;
+    padding: 20px;
+    border-bottom: 1px solid black;
+}
+.footer-img {
+    display: flex;
+    gap: 10px;
+    
+    margin-left: 47%;
+    margin-right: 47%;
 }
